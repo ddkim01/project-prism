@@ -6,4 +6,9 @@ An attempt to make Tetris. Phase 1 will with Python. Hopefully, Phase 2 will be 
 `source .venv/bin/activate`
 `deactivate`
 
-
+# Syntax rules
+<!-- 
+File names are snake case.
+Variable names are capital case.
+Function and class names are pascal case.
+ -->

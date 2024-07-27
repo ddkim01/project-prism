@@ -1,8 +1,7 @@
 {
   "editor.wordWrap": "on",
-  "workbench.colorCustomizations": {
-    "editorRuler.foreground": "#ff4081"
-},
-  "editor.rulers": [80],
+  "editor.rulers": [
+    {"column": 80, "color": "#ffd000"}
+  ],
   "editor.wordWrapColumn": 80
 }
